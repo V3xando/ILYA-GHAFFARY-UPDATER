@@ -45,6 +45,12 @@ If you appreciate the effort and design behind the ILYAGHAFFARY UPDATER and wish
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="App Feature Demonstration" width="450"/>
 </div>
 
